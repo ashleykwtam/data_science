@@ -26,7 +26,8 @@ Follow the CRISP-DM process in finding your solutions.
     - Gather necessary data to answer your questions
     - Handle categorical and missing data
     - Provide insight into the methods you chose and why you chose them
-    Analyze, Model, and Visualize
+    
+    Analyze, Model, and Visualize:
     - Provide a clear connection between your business questions and how the data answers them
 
 4) Communicate your business insights:
