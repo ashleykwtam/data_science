@@ -1,0 +1,5 @@
+reviews.csv filter=lfs diff=lfs merge=lfs -text
+calendar.csv filter=lfs diff=lfs merge=lfs -text
+listings.csv filter=lfs diff=lfs merge=lfs -text
+listings_initial_clean.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
